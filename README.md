@@ -16,4 +16,5 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/NgocHung11/leet-code/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/NgocHung11/leet-code/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/NgocHung11/leet-code/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0610-triangle-judgement](https://github.com/NgocHung11/leet-code/tree/main/0610-triangle-judgement/) | Easy |
 <!---LeetCode Topics End-->
