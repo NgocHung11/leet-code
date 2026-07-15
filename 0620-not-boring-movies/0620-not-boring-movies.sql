@@ -1,0 +1,5 @@
+-- Write your PostgreSQL query statement below
+select c.id, c.movie, c.description, rating
+from Cinema c
+where id % 2 != 0 and c.description != 'boring'
+order by c.rating desc
